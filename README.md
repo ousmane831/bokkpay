@@ -136,6 +136,3 @@ Built for the next generation of African Bitcoin developers.
 
 Team members will be added during the hackathon.
 
-## 📜 License
-
-MIT License
